@@ -307,20 +307,20 @@ Stores, also known as shops or retail establishments, are physical or virtual lo
 ```
 
 ## Output:
-![map1](./static/screenshots/map1.png)
+![map1](/static/screenshots/map1.png)
 
-![map2](./static/screenshots/map2.png)
+![map2](/static/screenshots/map2.png)
 
-![map3](./static/screenshots/map3.png)
+![map3](/static/screenshots/map3.png)
 
-![map4](./static/screenshots/map4.png)
+![map4](/static/screenshots/map4.png)
 
-![map5](./static/screenshots/map5.png)
+![map5](/static/screenshots/map5.png)
 
-![map6](./static/screenshots/map6.png)
+![map6](/static/screenshots/map6.png)
 
 ## HTMLVALODATOR
-![map7](./static/screenshots/map7.png)
+![map7](/static/screenshots/map7.png)
 
 ## Result:
 The program for implementing image map is executed sucessfully
