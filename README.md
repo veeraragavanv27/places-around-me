@@ -323,4 +323,4 @@ Stores, also known as shops or retail establishments, are physical or virtual lo
 ![output](./static/screenshots/map7.png)
 
 ## Result:
-the program for implementing image map is executed sucessfully
+The program for implementing image map is executed sucessfully
